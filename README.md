@@ -10,8 +10,8 @@ I recommend to paste this script in your project models folder.
 Basically, you paste a sample json in a file named as the Java class you want to create.
 For example, if you are going to create a Java class named LoginResponse.java, just paste the sample Json in a file named LoginResponse and run the script.
 
-In this repo, I'm adding a Json in the file named WeatherResponse. A concrete sample of use is:
-# ./json_to_java.rb --parse WeatherResponse --privacy private -c --package com.example.model
+In this repo, I'm adding a Json in the file named WeatherResponse. A concrete example of use is:
+./json_to_java.rb --parse WeatherResponse --privacy private -c --package com.example.model
 
 # Script parameters
 The script can handle some parameters:
