@@ -1,0 +1,15 @@
+{"city":
+    {"id":3435910,
+     "name":"Buenos Aires",
+     "coord":
+        {"lon":-58.377232,
+         "lat":-34.613152
+         },
+     "country":"AR",
+     "population":0
+     },
+ "cod":"200",
+ "message":0.0077,
+ "cnt":7,
+ "list":[{"dt":1455033600,"temp":{"day":29.64,"min":26.13,"max":29.64,"night":26.13,"eve":28.05,"morn":27.67},"pressure":1024.91,"humidity":88,"weather":[{"id":800,"main":"Clear","description":"sky is clear","icon":"01d"}],"speed":3.14,"deg":182,"clouds":0},{"dt":1455120000,"temp":{"day":26.18,"min":24.9,"max":26.79,"night":25.18,"eve":26.43,"morn":24.9},"pressure":1030.19,"humidity":100,"weather":[{"id":800,"main":"Clear","description":"sky is clear","icon":"01d"}],"speed":4.36,"deg":59,"clouds":0},{"dt":1455206400,"temp":{"day":25.69,"min":23.07,"max":27.78,"night":26.58,"eve":27.78,"morn":23.07},"pressure":1028.94,"humidity":98,"weather":[{"id":800,"main":"Clear","description":"sky is clear","icon":"01d"}],"speed":4.53,"deg":9,"clouds":0},{"dt":1455292800,"temp":{"day":27.06,"min":23.76,"max":29.49,"night":23.76,"eve":29.49,"morn":24.34},"pressure":1022.93,"humidity":90,"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10d"}],"speed":6.33,"deg":15,"clouds":20,"rain":9.88},{"dt":1455379200,"temp":{"day":31.54,"min":19.48,"max":31.54,"night":19.48,"eve":24.56,"morn":26.49},"pressure":1016.9,"humidity":0,"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10d"}],"speed":3.9,"deg":238,"clouds":38,"rain":7.96},{"dt":1455465600,"temp":{"day":28.26,"min":21.41,"max":28.26,"night":21.41,"eve":23.51,"morn":21.69},"pressure":1026.64,"humidity":0,"weather":[{"id":800,"main":"Clear","description":"sky is clear","icon":"01d"}],"speed":4.29,"deg":93,"clouds":0},{"dt":1455552000,"temp":{"day":30.01,"min":24.06,"max":30.01,"night":24.06,"eve":26.55,"morn":24.42},"pressure":1020.48,"humidity":0,"weather":[{"id":800,"main":"Clear","description":"sky is clear","icon":"01d"}],"speed":4.32,"deg":34,"clouds":7}]}
+
